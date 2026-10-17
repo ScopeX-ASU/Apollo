@@ -1,0 +1,3164 @@
+schema: null
+instances:
+  gc1:
+    component: grating_coupler_elliptical_lumerical
+    settings:
+      parameters: !!python/tuple [-2.4298362615732447, 0.1, 0.48007023217536954, 0.1,
+        0.607397685752365, 0.1, 0.4498844003086115, 0.1, 0.4274116312627637, 0.1,
+        0.4757904248387285, 0.1, 0.5026649898504233, 0.10002922416240886, 0.5100366774007897,
+        0.1, 0.494399635363353, 0.1079599958465788, 0.47400592737426483, 0.14972685326277918,
+        0.43272750134545823, 0.1839530796530385, 0.3872023336708212, 0.2360175325711591,
+        0.36032212454768675, 0.24261846353500535, 0.35770350120764394, 0.2606637836858316,
+        0.3526104381544335, 0.24668202254540886, 0.3717488388788273, 0.22920754299702897,
+        0.37769616507688464, 0.2246528336925301, 0.3765437598650894, 0.22041773376471022,
+        0.38047596041838994, 0.21923601658169187, 0.3798873698864591, 0.21700438236445285,
+        0.38291698672245644, 0.21827768053295463, 0.3641322152037017, 0.23729077006065105,
+        0.3676834419346081, 0.24865079519725933, 0.34415050295044936, 0.2733570818755685,
+        0.3306230780901629, 0.27350446437732157]
+      layer_slab: SLAB150
+      taper_angle: 55
+      taper_length: 12.6
+      fiber_angle: 5
+      info: null
+      bias_gap: 0
+      cross_section: strip
+      macro_type: m_grating_coupler_ellipti_4c46b398_0
+      placement:
+      - FIXED
+      - [0, 437.127]
+      - FN
+      - [0, 0, 0, 0]
+  fanout_yb_0_0:
+    component: mmi1x2
+    settings:
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 5.5
+      width_mmi: 2.5
+      gap_mmi: 0.25
+      taper: taper
+      straight: straight
+      cross_section: strip
+      macro_type: m_mmi1x2_WNone_WT1_LT10_L_4e0f7121_1
+      placement:
+      - UNPLACED
+      - [40, 448.75]
+      - N
+      - [0, 0, 0, 0]
+  fanout_yb_1_0:
+    component: mmi1x2
+    settings:
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 5.5
+      width_mmi: 2.5
+      gap_mmi: 0.25
+      taper: taper
+      straight: straight
+      cross_section: strip
+      macro_type: m_mmi1x2_WNone_WT1_LT10_L_4e0f7121_1
+      placement:
+      - UNPLACED
+      - [70, 423.75]
+      - N
+      - [0, 0, 0, 0]
+  fanout_yb_1_1:
+    component: mmi1x2
+    settings:
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 5.5
+      width_mmi: 2.5
+      gap_mmi: 0.25
+      taper: taper
+      straight: straight
+      cross_section: strip
+      macro_type: m_mmi1x2_WNone_WT1_LT10_L_4e0f7121_1
+      placement:
+      - UNPLACED
+      - [70, 473.75]
+      - N
+      - [0, 0, 0, 0]
+  fanout_yb_2_0:
+    component: mmi1x2
+    settings:
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 5.5
+      width_mmi: 2.5
+      gap_mmi: 0.25
+      taper: taper
+      straight: straight
+      cross_section: strip
+      macro_type: m_mmi1x2_WNone_WT1_LT10_L_4e0f7121_1
+      placement:
+      - UNPLACED
+      - [140.5, 373.75]
+      - N
+      - [0, 0, 0, 0]
+  fanout_yb_2_1:
+    component: mmi1x2
+    settings:
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 5.5
+      width_mmi: 2.5
+      gap_mmi: 0.25
+      taper: taper
+      straight: straight
+      cross_section: strip
+      macro_type: m_mmi1x2_WNone_WT1_LT10_L_4e0f7121_1
+      placement:
+      - UNPLACED
+      - [140.5, 423.75]
+      - N
+      - [0, 0, 0, 0]
+  fanout_yb_2_2:
+    component: mmi1x2
+    settings:
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 5.5
+      width_mmi: 2.5
+      gap_mmi: 0.25
+      taper: taper
+      straight: straight
+      cross_section: strip
+      macro_type: m_mmi1x2_WNone_WT1_LT10_L_4e0f7121_1
+      placement:
+      - UNPLACED
+      - [140.5, 473.75]
+      - N
+      - [0, 0, 0, 0]
+  fanout_yb_2_3:
+    component: mmi1x2
+    settings:
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 5.5
+      width_mmi: 2.5
+      gap_mmi: 0.25
+      taper: taper
+      straight: straight
+      cross_section: strip
+      macro_type: m_mmi1x2_WNone_WT1_LT10_L_4e0f7121_1
+      placement:
+      - UNPLACED
+      - [140.5, 523.75]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_0_mzi_0:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [176.0, 247.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_0_mzi_1:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [176.0, 297.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_0_mzi_2:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [176.0, 347.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_0_mzi_3:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [176.0, 397.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_0_mzi_4:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [176.0, 447.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_0_mzi_5:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [176.0, 497.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_0_mzi_6:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [176.0, 547.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_0_mzi_7:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [176.0, 597.125]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_0_heater_0:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [477.0, 269.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_0_heater_1:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [477.0, 319.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_0_heater_2:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [477.0, 369.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_0_heater_3:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [477.0, 419.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_0_heater_4:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [477.0, 469.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_0_heater_5:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [477.0, 519.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_0_heater_6:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [477.0, 569.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_0_heater_7:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [477.0, 619.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_0_0:
+    component: straight
+    settings:
+      length: 50
+      npoints: 2
+      cross_section: strip
+      width: null
+      macro_type: m_straight_L50_N2_CSstrip_WNone_4
+      placement:
+      - UNPLACED
+      - [718.8, 274.75]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_0_1:
+    component: mmi
+    settings:
+      inputs: 2
+      outputs: 2
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 36.0
+      width_mmi: 10.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5
+      placement:
+      - UNPLACED
+      - [718.8, 345.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_0_2:
+    component: mmi
+    settings:
+      inputs: 2
+      outputs: 2
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 36.0
+      width_mmi: 10.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5
+      placement:
+      - UNPLACED
+      - [718.8, 445.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_0_3:
+    component: mmi
+    settings:
+      inputs: 3
+      outputs: 3
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 54.0
+      width_mmi: 15.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I3_O3_WNone_WT1_LT1_511965c1_6
+      placement:
+      - UNPLACED
+      - [718.8, 567.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_1_heater_0:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [792.8, 269.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_1_heater_1:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [792.8, 319.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_1_heater_2:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [792.8, 369.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_1_heater_3:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [792.8, 419.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_1_heater_4:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [792.8, 469.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_1_heater_5:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [792.8, 519.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_1_heater_6:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [792.8, 569.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_1_heater_7:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [792.8, 619.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_1_0:
+    component: mmi
+    settings:
+      inputs: 2
+      outputs: 2
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 36.0
+      width_mmi: 10.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5
+      placement:
+      - UNPLACED
+      - [1034.6, 295.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_1_1:
+    component: mmi
+    settings:
+      inputs: 2
+      outputs: 2
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 36.0
+      width_mmi: 10.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5
+      placement:
+      - UNPLACED
+      - [1034.6, 395.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_1_2:
+    component: straight
+    settings:
+      length: 50
+      npoints: 2
+      cross_section: strip
+      width: null
+      macro_type: m_straight_L50_N2_CSstrip_WNone_4
+      placement:
+      - UNPLACED
+      - [1034.6, 474.75]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_1_3:
+    component: mmi
+    settings:
+      inputs: 2
+      outputs: 2
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 36.0
+      width_mmi: 10.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5
+      placement:
+      - UNPLACED
+      - [1034.6, 545.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_1_4:
+    component: straight
+    settings:
+      length: 50
+      npoints: 2
+      cross_section: strip
+      width: null
+      macro_type: m_straight_L50_N2_CSstrip_WNone_4
+      placement:
+      - UNPLACED
+      - [1034.6, 624.75]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_2_heater_0:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1094.6, 269.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_2_heater_1:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1094.6, 319.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_2_heater_2:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1094.6, 369.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_2_heater_3:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1094.6, 419.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_2_heater_4:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1094.6, 469.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_2_heater_5:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1094.6, 519.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_2_heater_6:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1094.6, 569.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_ps_array_2_heater_7:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1094.6, 619.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_2_0:
+    component: mmi
+    settings:
+      inputs: 2
+      outputs: 2
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 36.0
+      width_mmi: 10.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5
+      placement:
+      - UNPLACED
+      - [1336.3999999999999, 295.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_2_1:
+    component: mmi
+    settings:
+      inputs: 5
+      outputs: 5
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 90.0
+      width_mmi: 25.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I5_O5_WNone_WT1_LT1_2e7b18db_7
+      placement:
+      - UNPLACED
+      - [1336.3999999999999, 462.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi0_multiport_2_2:
+    component: straight
+    settings:
+      length: 50
+      npoints: 2
+      cross_section: strip
+      width: null
+      macro_type: m_straight_L50_N2_CSstrip_WNone_4
+      placement:
+      - UNPLACED
+      - [1336.3999999999999, 624.75]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_1_mzi_0:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [1446.3999999999999, 247.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_1_mzi_1:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [1446.3999999999999, 297.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_1_mzi_2:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [1446.3999999999999, 347.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_1_mzi_3:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [1446.3999999999999, 397.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_1_mzi_4:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [1446.3999999999999, 447.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_1_mzi_5:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [1446.3999999999999, 497.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_1_mzi_6:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [1446.3999999999999, 547.125]
+      - N
+      - [0, 0, 0, 0]
+  mol_array_1_mzi_7:
+    component: mzi
+    settings:
+      delta_length: 10.0
+      length_y: 2.0
+      length_x: 200
+      bend: bend_euler
+      straight: straight
+      straight_y: null
+      straight_x_top: straight_heater_metal
+      straight_x_bot: null
+      splitter: mmi1x2
+      combiner: null
+      with_splitter: true
+      port_e1_splitter: o2
+      port_e0_splitter: o3
+      port_e1_combiner: o2
+      port_e0_combiner: o3
+      port1: o1
+      port2: o2
+      nbends: 2
+      cross_section: strip
+      cross_section_x_top: null
+      cross_section_x_bot: null
+      mirror_bot: false
+      add_optical_ports_arms: false
+      min_length: 0.01
+      auto_rename_ports: true
+      macro_type: m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2
+      placement:
+      - UNPLACED
+      - [1446.3999999999999, 597.125]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_0_heater_0:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1747.3999999999999, 269.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_0_heater_1:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1747.3999999999999, 319.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_0_heater_2:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1747.3999999999999, 369.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_0_heater_3:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1747.3999999999999, 419.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_0_heater_4:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1747.3999999999999, 469.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_0_heater_5:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1747.3999999999999, 519.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_0_heater_6:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1747.3999999999999, 569.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_0_heater_7:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [1747.3999999999999, 619.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_0_0:
+    component: straight
+    settings:
+      length: 50
+      npoints: 2
+      cross_section: strip
+      width: null
+      macro_type: m_straight_L50_N2_CSstrip_WNone_4
+      placement:
+      - UNPLACED
+      - [1989.1999999999998, 274.75]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_0_1:
+    component: mmi
+    settings:
+      inputs: 2
+      outputs: 2
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 36.0
+      width_mmi: 10.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5
+      placement:
+      - UNPLACED
+      - [1989.1999999999998, 345.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_0_2:
+    component: mmi
+    settings:
+      inputs: 2
+      outputs: 2
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 36.0
+      width_mmi: 10.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5
+      placement:
+      - UNPLACED
+      - [1989.1999999999998, 445.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_0_3:
+    component: mmi
+    settings:
+      inputs: 3
+      outputs: 3
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 54.0
+      width_mmi: 15.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I3_O3_WNone_WT1_LT1_511965c1_6
+      placement:
+      - UNPLACED
+      - [1989.1999999999998, 567.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_1_heater_0:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2063.2, 269.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_1_heater_1:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2063.2, 319.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_1_heater_2:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2063.2, 369.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_1_heater_3:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2063.2, 419.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_1_heater_4:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2063.2, 469.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_1_heater_5:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2063.2, 519.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_1_heater_6:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2063.2, 569.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_1_heater_7:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2063.2, 619.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_1_0:
+    component: mmi
+    settings:
+      inputs: 4
+      outputs: 4
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 72.0
+      width_mmi: 20.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I4_O4_WNone_WT1_LT1_a5379678_8
+      placement:
+      - UNPLACED
+      - [2305.0, 340.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_1_1:
+    component: straight
+    settings:
+      length: 50
+      npoints: 2
+      cross_section: strip
+      width: null
+      macro_type: m_straight_L50_N2_CSstrip_WNone_4
+      placement:
+      - UNPLACED
+      - [2305.0, 474.75]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_1_2:
+    component: mmi
+    settings:
+      inputs: 2
+      outputs: 2
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 36.0
+      width_mmi: 10.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5
+      placement:
+      - UNPLACED
+      - [2305.0, 545.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_1_3:
+    component: straight
+    settings:
+      length: 50
+      npoints: 2
+      cross_section: strip
+      width: null
+      macro_type: m_straight_L50_N2_CSstrip_WNone_4
+      placement:
+      - UNPLACED
+      - [2305.0, 624.75]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_2_heater_0:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2397.0, 269.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_2_heater_1:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2397.0, 319.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_2_heater_2:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2397.0, 369.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_2_heater_3:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2397.0, 419.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_2_heater_4:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2397.0, 469.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_2_heater_5:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2397.0, 519.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_2_heater_6:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2397.0, 569.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_ps_array_2_heater_7:
+    component: straight_heater_metal_undercut
+    settings:
+      length: 200
+      length_undercut_spacing: 6.0
+      length_undercut: 30.0
+      length_straight: 0.1
+      length_straight_input: 15.0
+      cross_section: strip
+      cross_section_heater: heater_metal
+      cross_section_waveguide_heater: strip_heater_metal
+      cross_section_heater_undercut: strip_heater_metal_undercut
+      with_undercut: false
+      via_stack: via_stack_heater_mtop
+      port_orientation1: null
+      port_orientation2: null
+      heater_taper_length: 5.0
+      ohms_per_square: null
+      macro_type: m_straight_heater_metal_u_9c931429_3
+      placement:
+      - UNPLACED
+      - [2397.0, 619.5]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_2_0:
+    component: mmi
+    settings:
+      inputs: 4
+      outputs: 4
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 72.0
+      width_mmi: 20.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I4_O4_WNone_WT1_LT1_a5379678_8
+      placement:
+      - UNPLACED
+      - [2638.8, 340.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_2_1:
+    component: mmi
+    settings:
+      inputs: 2
+      outputs: 2
+      width: null
+      width_taper: 1.0
+      length_taper: 10.0
+      length_mmi: 36.0
+      width_mmi: 10.0
+      gap_input_tapers: 4
+      gap_output_tapers: 4
+      taper: taper
+      straight: straight
+      cross_section: strip
+      input_positions: null
+      output_positions: null
+      macro_type: m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5
+      placement:
+      - UNPLACED
+      - [2638.8, 495.0]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_2_2:
+    component: straight
+    settings:
+      length: 50
+      npoints: 2
+      cross_section: strip
+      width: null
+      macro_type: m_straight_L50_N2_CSstrip_WNone_4
+      placement:
+      - UNPLACED
+      - [2638.8, 574.75]
+      - N
+      - [0, 0, 0, 0]
+  mmi1_multiport_2_3:
+    component: straight
+    settings:
+      length: 50
+      npoints: 2
+      cross_section: strip
+      width: null
+      macro_type: m_straight_L50_N2_CSstrip_WNone_4
+      placement:
+      - UNPLACED
+      - [2638.8, 624.75]
+      - N
+      - [0, 0, 0, 0]
+  gc_array_out_gc_0:
+    component: grating_coupler_elliptical_lumerical
+    settings:
+      parameters: !!python/tuple [-2.4298362615732447, 0.1, 0.48007023217536954, 0.1,
+        0.607397685752365, 0.1, 0.4498844003086115, 0.1, 0.4274116312627637, 0.1,
+        0.4757904248387285, 0.1, 0.5026649898504233, 0.10002922416240886, 0.5100366774007897,
+        0.1, 0.494399635363353, 0.1079599958465788, 0.47400592737426483, 0.14972685326277918,
+        0.43272750134545823, 0.1839530796530385, 0.3872023336708212, 0.2360175325711591,
+        0.36032212454768675, 0.24261846353500535, 0.35770350120764394, 0.2606637836858316,
+        0.3526104381544335, 0.24668202254540886, 0.3717488388788273, 0.22920754299702897,
+        0.37769616507688464, 0.2246528336925301, 0.3765437598650894, 0.22041773376471022,
+        0.38047596041838994, 0.21923601658169187, 0.3798873698864591, 0.21700438236445285,
+        0.38291698672245644, 0.21827768053295463, 0.3641322152037017, 0.23729077006065105,
+        0.3676834419346081, 0.24865079519725933, 0.34415050295044936, 0.2733570818755685,
+        0.3306230780901629, 0.27350446437732157]
+      layer_slab: SLAB150
+      taper_angle: 55
+      taper_length: 12.6
+      fiber_angle: 5
+      info: null
+      bias_gap: 0
+      cross_section: strip
+      macro_type: m_grating_coupler_ellipti_4c46b398_0
+      placement:
+      - FIXED
+      - [3172.836, 87.127]
+      - N
+      - [0, 0, 0, 0]
+  gc_array_out_gc_1:
+    component: grating_coupler_elliptical_lumerical
+    settings:
+      parameters: !!python/tuple [-2.4298362615732447, 0.1, 0.48007023217536954, 0.1,
+        0.607397685752365, 0.1, 0.4498844003086115, 0.1, 0.4274116312627637, 0.1,
+        0.4757904248387285, 0.1, 0.5026649898504233, 0.10002922416240886, 0.5100366774007897,
+        0.1, 0.494399635363353, 0.1079599958465788, 0.47400592737426483, 0.14972685326277918,
+        0.43272750134545823, 0.1839530796530385, 0.3872023336708212, 0.2360175325711591,
+        0.36032212454768675, 0.24261846353500535, 0.35770350120764394, 0.2606637836858316,
+        0.3526104381544335, 0.24668202254540886, 0.3717488388788273, 0.22920754299702897,
+        0.37769616507688464, 0.2246528336925301, 0.3765437598650894, 0.22041773376471022,
+        0.38047596041838994, 0.21923601658169187, 0.3798873698864591, 0.21700438236445285,
+        0.38291698672245644, 0.21827768053295463, 0.3641322152037017, 0.23729077006065105,
+        0.3676834419346081, 0.24865079519725933, 0.34415050295044936, 0.2733570818755685,
+        0.3306230780901629, 0.27350446437732157]
+      layer_slab: SLAB150
+      taper_angle: 55
+      taper_length: 12.6
+      fiber_angle: 5
+      info: null
+      bias_gap: 0
+      cross_section: strip
+      macro_type: m_grating_coupler_ellipti_4c46b398_0
+      placement:
+      - FIXED
+      - [3172.836, 187.127]
+      - N
+      - [0, 0, 0, 0]
+  gc_array_out_gc_2:
+    component: grating_coupler_elliptical_lumerical
+    settings:
+      parameters: !!python/tuple [-2.4298362615732447, 0.1, 0.48007023217536954, 0.1,
+        0.607397685752365, 0.1, 0.4498844003086115, 0.1, 0.4274116312627637, 0.1,
+        0.4757904248387285, 0.1, 0.5026649898504233, 0.10002922416240886, 0.5100366774007897,
+        0.1, 0.494399635363353, 0.1079599958465788, 0.47400592737426483, 0.14972685326277918,
+        0.43272750134545823, 0.1839530796530385, 0.3872023336708212, 0.2360175325711591,
+        0.36032212454768675, 0.24261846353500535, 0.35770350120764394, 0.2606637836858316,
+        0.3526104381544335, 0.24668202254540886, 0.3717488388788273, 0.22920754299702897,
+        0.37769616507688464, 0.2246528336925301, 0.3765437598650894, 0.22041773376471022,
+        0.38047596041838994, 0.21923601658169187, 0.3798873698864591, 0.21700438236445285,
+        0.38291698672245644, 0.21827768053295463, 0.3641322152037017, 0.23729077006065105,
+        0.3676834419346081, 0.24865079519725933, 0.34415050295044936, 0.2733570818755685,
+        0.3306230780901629, 0.27350446437732157]
+      layer_slab: SLAB150
+      taper_angle: 55
+      taper_length: 12.6
+      fiber_angle: 5
+      info: null
+      bias_gap: 0
+      cross_section: strip
+      macro_type: m_grating_coupler_ellipti_4c46b398_0
+      placement:
+      - FIXED
+      - [3172.836, 287.127]
+      - N
+      - [0, 0, 0, 0]
+  gc_array_out_gc_3:
+    component: grating_coupler_elliptical_lumerical
+    settings:
+      parameters: !!python/tuple [-2.4298362615732447, 0.1, 0.48007023217536954, 0.1,
+        0.607397685752365, 0.1, 0.4498844003086115, 0.1, 0.4274116312627637, 0.1,
+        0.4757904248387285, 0.1, 0.5026649898504233, 0.10002922416240886, 0.5100366774007897,
+        0.1, 0.494399635363353, 0.1079599958465788, 0.47400592737426483, 0.14972685326277918,
+        0.43272750134545823, 0.1839530796530385, 0.3872023336708212, 0.2360175325711591,
+        0.36032212454768675, 0.24261846353500535, 0.35770350120764394, 0.2606637836858316,
+        0.3526104381544335, 0.24668202254540886, 0.3717488388788273, 0.22920754299702897,
+        0.37769616507688464, 0.2246528336925301, 0.3765437598650894, 0.22041773376471022,
+        0.38047596041838994, 0.21923601658169187, 0.3798873698864591, 0.21700438236445285,
+        0.38291698672245644, 0.21827768053295463, 0.3641322152037017, 0.23729077006065105,
+        0.3676834419346081, 0.24865079519725933, 0.34415050295044936, 0.2733570818755685,
+        0.3306230780901629, 0.27350446437732157]
+      layer_slab: SLAB150
+      taper_angle: 55
+      taper_length: 12.6
+      fiber_angle: 5
+      info: null
+      bias_gap: 0
+      cross_section: strip
+      macro_type: m_grating_coupler_ellipti_4c46b398_0
+      placement:
+      - FIXED
+      - [3172.836, 387.127]
+      - N
+      - [0, 0, 0, 0]
+  gc_array_out_gc_4:
+    component: grating_coupler_elliptical_lumerical
+    settings:
+      parameters: !!python/tuple [-2.4298362615732447, 0.1, 0.48007023217536954, 0.1,
+        0.607397685752365, 0.1, 0.4498844003086115, 0.1, 0.4274116312627637, 0.1,
+        0.4757904248387285, 0.1, 0.5026649898504233, 0.10002922416240886, 0.5100366774007897,
+        0.1, 0.494399635363353, 0.1079599958465788, 0.47400592737426483, 0.14972685326277918,
+        0.43272750134545823, 0.1839530796530385, 0.3872023336708212, 0.2360175325711591,
+        0.36032212454768675, 0.24261846353500535, 0.35770350120764394, 0.2606637836858316,
+        0.3526104381544335, 0.24668202254540886, 0.3717488388788273, 0.22920754299702897,
+        0.37769616507688464, 0.2246528336925301, 0.3765437598650894, 0.22041773376471022,
+        0.38047596041838994, 0.21923601658169187, 0.3798873698864591, 0.21700438236445285,
+        0.38291698672245644, 0.21827768053295463, 0.3641322152037017, 0.23729077006065105,
+        0.3676834419346081, 0.24865079519725933, 0.34415050295044936, 0.2733570818755685,
+        0.3306230780901629, 0.27350446437732157]
+      layer_slab: SLAB150
+      taper_angle: 55
+      taper_length: 12.6
+      fiber_angle: 5
+      info: null
+      bias_gap: 0
+      cross_section: strip
+      macro_type: m_grating_coupler_ellipti_4c46b398_0
+      placement:
+      - FIXED
+      - [3172.836, 487.127]
+      - N
+      - [0, 0, 0, 0]
+  gc_array_out_gc_5:
+    component: grating_coupler_elliptical_lumerical
+    settings:
+      parameters: !!python/tuple [-2.4298362615732447, 0.1, 0.48007023217536954, 0.1,
+        0.607397685752365, 0.1, 0.4498844003086115, 0.1, 0.4274116312627637, 0.1,
+        0.4757904248387285, 0.1, 0.5026649898504233, 0.10002922416240886, 0.5100366774007897,
+        0.1, 0.494399635363353, 0.1079599958465788, 0.47400592737426483, 0.14972685326277918,
+        0.43272750134545823, 0.1839530796530385, 0.3872023336708212, 0.2360175325711591,
+        0.36032212454768675, 0.24261846353500535, 0.35770350120764394, 0.2606637836858316,
+        0.3526104381544335, 0.24668202254540886, 0.3717488388788273, 0.22920754299702897,
+        0.37769616507688464, 0.2246528336925301, 0.3765437598650894, 0.22041773376471022,
+        0.38047596041838994, 0.21923601658169187, 0.3798873698864591, 0.21700438236445285,
+        0.38291698672245644, 0.21827768053295463, 0.3641322152037017, 0.23729077006065105,
+        0.3676834419346081, 0.24865079519725933, 0.34415050295044936, 0.2733570818755685,
+        0.3306230780901629, 0.27350446437732157]
+      layer_slab: SLAB150
+      taper_angle: 55
+      taper_length: 12.6
+      fiber_angle: 5
+      info: null
+      bias_gap: 0
+      cross_section: strip
+      macro_type: m_grating_coupler_ellipti_4c46b398_0
+      placement:
+      - FIXED
+      - [3172.836, 587.127]
+      - N
+      - [0, 0, 0, 0]
+  gc_array_out_gc_6:
+    component: grating_coupler_elliptical_lumerical
+    settings:
+      parameters: !!python/tuple [-2.4298362615732447, 0.1, 0.48007023217536954, 0.1,
+        0.607397685752365, 0.1, 0.4498844003086115, 0.1, 0.4274116312627637, 0.1,
+        0.4757904248387285, 0.1, 0.5026649898504233, 0.10002922416240886, 0.5100366774007897,
+        0.1, 0.494399635363353, 0.1079599958465788, 0.47400592737426483, 0.14972685326277918,
+        0.43272750134545823, 0.1839530796530385, 0.3872023336708212, 0.2360175325711591,
+        0.36032212454768675, 0.24261846353500535, 0.35770350120764394, 0.2606637836858316,
+        0.3526104381544335, 0.24668202254540886, 0.3717488388788273, 0.22920754299702897,
+        0.37769616507688464, 0.2246528336925301, 0.3765437598650894, 0.22041773376471022,
+        0.38047596041838994, 0.21923601658169187, 0.3798873698864591, 0.21700438236445285,
+        0.38291698672245644, 0.21827768053295463, 0.3641322152037017, 0.23729077006065105,
+        0.3676834419346081, 0.24865079519725933, 0.34415050295044936, 0.2733570818755685,
+        0.3306230780901629, 0.27350446437732157]
+      layer_slab: SLAB150
+      taper_angle: 55
+      taper_length: 12.6
+      fiber_angle: 5
+      info: null
+      bias_gap: 0
+      cross_section: strip
+      macro_type: m_grating_coupler_ellipti_4c46b398_0
+      placement:
+      - FIXED
+      - [3172.836, 687.127]
+      - N
+      - [0, 0, 0, 0]
+  gc_array_out_gc_7:
+    component: grating_coupler_elliptical_lumerical
+    settings:
+      parameters: !!python/tuple [-2.4298362615732447, 0.1, 0.48007023217536954, 0.1,
+        0.607397685752365, 0.1, 0.4498844003086115, 0.1, 0.4274116312627637, 0.1,
+        0.4757904248387285, 0.1, 0.5026649898504233, 0.10002922416240886, 0.5100366774007897,
+        0.1, 0.494399635363353, 0.1079599958465788, 0.47400592737426483, 0.14972685326277918,
+        0.43272750134545823, 0.1839530796530385, 0.3872023336708212, 0.2360175325711591,
+        0.36032212454768675, 0.24261846353500535, 0.35770350120764394, 0.2606637836858316,
+        0.3526104381544335, 0.24668202254540886, 0.3717488388788273, 0.22920754299702897,
+        0.37769616507688464, 0.2246528336925301, 0.3765437598650894, 0.22041773376471022,
+        0.38047596041838994, 0.21923601658169187, 0.3798873698864591, 0.21700438236445285,
+        0.38291698672245644, 0.21827768053295463, 0.3641322152037017, 0.23729077006065105,
+        0.3676834419346081, 0.24865079519725933, 0.34415050295044936, 0.2733570818755685,
+        0.3306230780901629, 0.27350446437732157]
+      layer_slab: SLAB150
+      taper_angle: 55
+      taper_length: 12.6
+      fiber_angle: 5
+      info: null
+      bias_gap: 0
+      cross_section: strip
+      macro_type: m_grating_coupler_ellipti_4c46b398_0
+      placement:
+      - FIXED
+      - [3172.836, 787.127]
+      - N
+      - [0, 0, 0, 0]
+schematic_placements:
+  gc1: {x: 0.0, y: 437.127, xmin: null, ymin: null, xmax: null, ymax: null, dx: 0,
+    dy: 0, port: sw, rotation: 0, mirror: true}
+  fanout_yb_0_0: {x: 40, y: 448.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  fanout_yb_1_0: {x: 70, y: 423.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  fanout_yb_1_1: {x: 70, y: 473.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  fanout_yb_2_0: {x: 140.5, y: 373.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  fanout_yb_2_1: {x: 140.5, y: 423.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  fanout_yb_2_2: {x: 140.5, y: 473.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  fanout_yb_2_3: {x: 140.5, y: 523.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_0_mzi_0: {x: 176.0, y: 247.125, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_0_mzi_1: {x: 176.0, y: 297.125, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_0_mzi_2: {x: 176.0, y: 347.125, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_0_mzi_3: {x: 176.0, y: 397.125, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_0_mzi_4: {x: 176.0, y: 447.125, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_0_mzi_5: {x: 176.0, y: 497.125, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_0_mzi_6: {x: 176.0, y: 547.125, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_0_mzi_7: {x: 176.0, y: 597.125, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_0_heater_0: {x: 477.0, y: 269.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_0_heater_1: {x: 477.0, y: 319.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_0_heater_2: {x: 477.0, y: 369.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_0_heater_3: {x: 477.0, y: 419.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_0_heater_4: {x: 477.0, y: 469.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_0_heater_5: {x: 477.0, y: 519.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_0_heater_6: {x: 477.0, y: 569.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_0_heater_7: {x: 477.0, y: 619.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_0_0: {x: 718.8, y: 274.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_0_1: {x: 718.8, y: 345.0, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_0_2: {x: 718.8, y: 445.0, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_0_3: {x: 718.8, y: 567.5, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_1_heater_0: {x: 792.8, y: 269.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_1_heater_1: {x: 792.8, y: 319.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_1_heater_2: {x: 792.8, y: 369.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_1_heater_3: {x: 792.8, y: 419.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_1_heater_4: {x: 792.8, y: 469.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_1_heater_5: {x: 792.8, y: 519.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_1_heater_6: {x: 792.8, y: 569.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_1_heater_7: {x: 792.8, y: 619.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_1_0: {x: 1034.6, y: 295.0, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_1_1: {x: 1034.6, y: 395.0, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_1_2: {x: 1034.6, y: 474.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_1_3: {x: 1034.6, y: 545.0, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_1_4: {x: 1034.6, y: 624.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_2_heater_0: {x: 1094.6, y: 269.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_2_heater_1: {x: 1094.6, y: 319.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_2_heater_2: {x: 1094.6, y: 369.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_2_heater_3: {x: 1094.6, y: 419.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_2_heater_4: {x: 1094.6, y: 469.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_2_heater_5: {x: 1094.6, y: 519.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_2_heater_6: {x: 1094.6, y: 569.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_ps_array_2_heater_7: {x: 1094.6, y: 619.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_2_0: {x: 1336.3999999999999, y: 295.0, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_2_1: {x: 1336.3999999999999, y: 462.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi0_multiport_2_2: {x: 1336.3999999999999, y: 624.75, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_1_mzi_0: {x: 1446.3999999999999, y: 247.125, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_1_mzi_1: {x: 1446.3999999999999, y: 297.125, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_1_mzi_2: {x: 1446.3999999999999, y: 347.125, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_1_mzi_3: {x: 1446.3999999999999, y: 397.125, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_1_mzi_4: {x: 1446.3999999999999, y: 447.125, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_1_mzi_5: {x: 1446.3999999999999, y: 497.125, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_1_mzi_6: {x: 1446.3999999999999, y: 547.125, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mol_array_1_mzi_7: {x: 1446.3999999999999, y: 597.125, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_0_heater_0: {x: 1747.3999999999999, y: 269.5, xmin: null, ymin: null,
+    xmax: null, ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_0_heater_1: {x: 1747.3999999999999, y: 319.5, xmin: null, ymin: null,
+    xmax: null, ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_0_heater_2: {x: 1747.3999999999999, y: 369.5, xmin: null, ymin: null,
+    xmax: null, ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_0_heater_3: {x: 1747.3999999999999, y: 419.5, xmin: null, ymin: null,
+    xmax: null, ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_0_heater_4: {x: 1747.3999999999999, y: 469.5, xmin: null, ymin: null,
+    xmax: null, ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_0_heater_5: {x: 1747.3999999999999, y: 519.5, xmin: null, ymin: null,
+    xmax: null, ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_0_heater_6: {x: 1747.3999999999999, y: 569.5, xmin: null, ymin: null,
+    xmax: null, ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_0_heater_7: {x: 1747.3999999999999, y: 619.5, xmin: null, ymin: null,
+    xmax: null, ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_0_0: {x: 1989.1999999999998, y: 274.75, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_0_1: {x: 1989.1999999999998, y: 345.0, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_0_2: {x: 1989.1999999999998, y: 445.0, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_0_3: {x: 1989.1999999999998, y: 567.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_1_heater_0: {x: 2063.2, y: 269.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_1_heater_1: {x: 2063.2, y: 319.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_1_heater_2: {x: 2063.2, y: 369.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_1_heater_3: {x: 2063.2, y: 419.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_1_heater_4: {x: 2063.2, y: 469.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_1_heater_5: {x: 2063.2, y: 519.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_1_heater_6: {x: 2063.2, y: 569.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_1_heater_7: {x: 2063.2, y: 619.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_1_0: {x: 2305.0, y: 340.0, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_1_1: {x: 2305.0, y: 474.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_1_2: {x: 2305.0, y: 545.0, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_1_3: {x: 2305.0, y: 624.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_2_heater_0: {x: 2397.0, y: 269.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_2_heater_1: {x: 2397.0, y: 319.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_2_heater_2: {x: 2397.0, y: 369.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_2_heater_3: {x: 2397.0, y: 419.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_2_heater_4: {x: 2397.0, y: 469.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_2_heater_5: {x: 2397.0, y: 519.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_2_heater_6: {x: 2397.0, y: 569.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_ps_array_2_heater_7: {x: 2397.0, y: 619.5, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_2_0: {x: 2638.8, y: 340.0, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_2_1: {x: 2638.8, y: 495.0, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_2_2: {x: 2638.8, y: 574.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  mmi1_multiport_2_3: {x: 2638.8, y: 624.75, xmin: null, ymin: null, xmax: null, ymax: null,
+    dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  gc_array_out_gc_0: {x: 3172.836, y: 87.127, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  gc_array_out_gc_1: {x: 3172.836, y: 187.127, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  gc_array_out_gc_2: {x: 3172.836, y: 287.127, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  gc_array_out_gc_3: {x: 3172.836, y: 387.127, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  gc_array_out_gc_4: {x: 3172.836, y: 487.127, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  gc_array_out_gc_5: {x: 3172.836, y: 587.127, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  gc_array_out_gc_6: {x: 3172.836, y: 687.127, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+  gc_array_out_gc_7: {x: 3172.836, y: 787.127, xmin: null, ymin: null, xmax: null,
+    ymax: null, dx: 0, dy: 0, port: sw, rotation: 0, mirror: false}
+nets:
+  n_0: ['fanout_yb_0_0,o3', 'fanout_yb_1_0,o1']
+  n_1: ['fanout_yb_0_0,o2', 'fanout_yb_1_1,o1']
+  n_2: ['fanout_yb_1_0,o3', 'fanout_yb_2_0,o1']
+  n_3: ['fanout_yb_1_0,o2', 'fanout_yb_2_1,o1']
+  n_4: ['fanout_yb_1_1,o3', 'fanout_yb_2_2,o1']
+  n_5: ['fanout_yb_1_1,o2', 'fanout_yb_2_3,o1']
+  n_6: ['gc1,o1', 'fanout_yb_0_0,o1']
+  n_7: ['fanout_yb_2_0,o3', 'mol_array_0_mzi_0,o1']
+  n_8: ['fanout_yb_2_0,o2', 'mol_array_0_mzi_1,o1']
+  n_9: ['fanout_yb_2_1,o3', 'mol_array_0_mzi_2,o1']
+  n_10: ['fanout_yb_2_1,o2', 'mol_array_0_mzi_3,o1']
+  n_11: ['fanout_yb_2_2,o3', 'mol_array_0_mzi_4,o1']
+  n_12: ['fanout_yb_2_2,o2', 'mol_array_0_mzi_5,o1']
+  n_13: ['fanout_yb_2_3,o3', 'mol_array_0_mzi_6,o1']
+  n_14: ['fanout_yb_2_3,o2', 'mol_array_0_mzi_7,o1']
+  n_15: ['mol_array_0_mzi_0,o2', 'mmi0_ps_array_0_heater_0,o1']
+  n_16: ['mol_array_0_mzi_1,o2', 'mmi0_ps_array_0_heater_1,o1']
+  n_17: ['mol_array_0_mzi_2,o2', 'mmi0_ps_array_0_heater_2,o1']
+  n_18: ['mol_array_0_mzi_3,o2', 'mmi0_ps_array_0_heater_3,o1']
+  n_19: ['mol_array_0_mzi_4,o2', 'mmi0_ps_array_0_heater_4,o1']
+  n_20: ['mol_array_0_mzi_5,o2', 'mmi0_ps_array_0_heater_5,o1']
+  n_21: ['mol_array_0_mzi_6,o2', 'mmi0_ps_array_0_heater_6,o1']
+  n_22: ['mol_array_0_mzi_7,o2', 'mmi0_ps_array_0_heater_7,o1']
+  n_23: ['mmi0_ps_array_0_heater_0,o2', 'mmi0_multiport_0_0,o1']
+  n_24: ['mmi0_ps_array_0_heater_1,o2', 'mmi0_multiport_0_1,o1']
+  n_25: ['mmi0_ps_array_0_heater_2,o2', 'mmi0_multiport_0_1,o2']
+  n_26: ['mmi0_ps_array_0_heater_3,o2', 'mmi0_multiport_0_2,o1']
+  n_27: ['mmi0_ps_array_0_heater_4,o2', 'mmi0_multiport_0_2,o2']
+  n_28: ['mmi0_ps_array_0_heater_5,o2', 'mmi0_multiport_0_3,o1']
+  n_29: ['mmi0_ps_array_0_heater_6,o2', 'mmi0_multiport_0_3,o2']
+  n_30: ['mmi0_ps_array_0_heater_7,o2', 'mmi0_multiport_0_3,o3']
+  n_31: ['mmi0_multiport_0_0,o2', 'mmi0_ps_array_1_heater_1,o1']
+  n_32: ['mmi0_multiport_0_1,o4', 'mmi0_ps_array_1_heater_0,o1']
+  n_33: ['mmi0_multiport_0_1,o3', 'mmi0_ps_array_1_heater_3,o1']
+  n_34: ['mmi0_multiport_0_2,o4', 'mmi0_ps_array_1_heater_2,o1']
+  n_35: ['mmi0_multiport_0_2,o3', 'mmi0_ps_array_1_heater_4,o1']
+  n_36: ['mmi0_multiport_0_3,o6', 'mmi0_ps_array_1_heater_7,o1']
+  n_37: ['mmi0_multiport_0_3,o5', 'mmi0_ps_array_1_heater_6,o1']
+  n_38: ['mmi0_multiport_0_3,o4', 'mmi0_ps_array_1_heater_5,o1']
+  n_39: ['mmi0_ps_array_1_heater_0,o2', 'mmi0_multiport_1_0,o1']
+  n_40: ['mmi0_ps_array_1_heater_1,o2', 'mmi0_multiport_1_0,o2']
+  n_41: ['mmi0_ps_array_1_heater_2,o2', 'mmi0_multiport_1_1,o1']
+  n_42: ['mmi0_ps_array_1_heater_3,o2', 'mmi0_multiport_1_1,o2']
+  n_43: ['mmi0_ps_array_1_heater_4,o2', 'mmi0_multiport_1_2,o1']
+  n_44: ['mmi0_ps_array_1_heater_5,o2', 'mmi0_multiport_1_3,o1']
+  n_45: ['mmi0_ps_array_1_heater_6,o2', 'mmi0_multiport_1_3,o2']
+  n_46: ['mmi0_ps_array_1_heater_7,o2', 'mmi0_multiport_1_4,o1']
+  n_47: ['mmi0_multiport_1_0,o4', 'mmi0_ps_array_2_heater_1,o1']
+  n_48: ['mmi0_multiport_1_0,o3', 'mmi0_ps_array_2_heater_0,o1']
+  n_49: ['mmi0_multiport_1_1,o4', 'mmi0_ps_array_2_heater_4,o1']
+  n_50: ['mmi0_multiport_1_1,o3', 'mmi0_ps_array_2_heater_3,o1']
+  n_51: ['mmi0_multiport_1_2,o2', 'mmi0_ps_array_2_heater_2,o1']
+  n_52: ['mmi0_multiport_1_3,o4', 'mmi0_ps_array_2_heater_6,o1']
+  n_53: ['mmi0_multiport_1_3,o3', 'mmi0_ps_array_2_heater_5,o1']
+  n_54: ['mmi0_multiport_1_4,o2', 'mmi0_ps_array_2_heater_7,o1']
+  n_55: ['mmi0_ps_array_2_heater_0,o2', 'mmi0_multiport_2_0,o1']
+  n_56: ['mmi0_ps_array_2_heater_1,o2', 'mmi0_multiport_2_0,o2']
+  n_57: ['mmi0_ps_array_2_heater_2,o2', 'mmi0_multiport_2_1,o1']
+  n_58: ['mmi0_ps_array_2_heater_3,o2', 'mmi0_multiport_2_1,o2']
+  n_59: ['mmi0_ps_array_2_heater_4,o2', 'mmi0_multiport_2_1,o3']
+  n_60: ['mmi0_ps_array_2_heater_5,o2', 'mmi0_multiport_2_1,o4']
+  n_61: ['mmi0_ps_array_2_heater_6,o2', 'mmi0_multiport_2_1,o5']
+  n_62: ['mmi0_ps_array_2_heater_7,o2', 'mmi0_multiport_2_2,o1']
+  n_63: ['mmi0_multiport_2_0,o4', 'mol_array_1_mzi_1,o1']
+  n_64: ['mmi0_multiport_2_0,o3', 'mol_array_1_mzi_0,o1']
+  n_65: ['mmi0_multiport_2_1,o10', 'mol_array_1_mzi_5,o1']
+  n_66: ['mmi0_multiport_2_1,o9', 'mol_array_1_mzi_3,o1']
+  n_67: ['mmi0_multiport_2_1,o8', 'mol_array_1_mzi_2,o1']
+  n_68: ['mmi0_multiport_2_1,o7', 'mol_array_1_mzi_4,o1']
+  n_69: ['mmi0_multiport_2_1,o6', 'mol_array_1_mzi_6,o1']
+  n_70: ['mmi0_multiport_2_2,o2', 'mol_array_1_mzi_7,o1']
+  n_71: ['mol_array_1_mzi_0,o2', 'mmi1_ps_array_0_heater_0,o1']
+  n_72: ['mol_array_1_mzi_1,o2', 'mmi1_ps_array_0_heater_1,o1']
+  n_73: ['mol_array_1_mzi_2,o2', 'mmi1_ps_array_0_heater_2,o1']
+  n_74: ['mol_array_1_mzi_3,o2', 'mmi1_ps_array_0_heater_3,o1']
+  n_75: ['mol_array_1_mzi_4,o2', 'mmi1_ps_array_0_heater_4,o1']
+  n_76: ['mol_array_1_mzi_5,o2', 'mmi1_ps_array_0_heater_5,o1']
+  n_77: ['mol_array_1_mzi_6,o2', 'mmi1_ps_array_0_heater_6,o1']
+  n_78: ['mol_array_1_mzi_7,o2', 'mmi1_ps_array_0_heater_7,o1']
+  n_79: ['mmi1_ps_array_0_heater_0,o2', 'mmi1_multiport_0_0,o1']
+  n_80: ['mmi1_ps_array_0_heater_1,o2', 'mmi1_multiport_0_1,o1']
+  n_81: ['mmi1_ps_array_0_heater_2,o2', 'mmi1_multiport_0_1,o2']
+  n_82: ['mmi1_ps_array_0_heater_3,o2', 'mmi1_multiport_0_2,o1']
+  n_83: ['mmi1_ps_array_0_heater_4,o2', 'mmi1_multiport_0_2,o2']
+  n_84: ['mmi1_ps_array_0_heater_5,o2', 'mmi1_multiport_0_3,o1']
+  n_85: ['mmi1_ps_array_0_heater_6,o2', 'mmi1_multiport_0_3,o2']
+  n_86: ['mmi1_ps_array_0_heater_7,o2', 'mmi1_multiport_0_3,o3']
+  n_87: ['mmi1_multiport_0_0,o2', 'mmi1_ps_array_1_heater_0,o1']
+  n_88: ['mmi1_multiport_0_1,o4', 'mmi1_ps_array_1_heater_5,o1']
+  n_89: ['mmi1_multiport_0_1,o3', 'mmi1_ps_array_1_heater_1,o1']
+  n_90: ['mmi1_multiport_0_2,o4', 'mmi1_ps_array_1_heater_2,o1']
+  n_91: ['mmi1_multiport_0_2,o3', 'mmi1_ps_array_1_heater_3,o1']
+  n_92: ['mmi1_multiport_0_3,o6', 'mmi1_ps_array_1_heater_4,o1']
+  n_93: ['mmi1_multiport_0_3,o5', 'mmi1_ps_array_1_heater_7,o1']
+  n_94: ['mmi1_multiport_0_3,o4', 'mmi1_ps_array_1_heater_6,o1']
+  n_95: ['mmi1_ps_array_1_heater_0,o2', 'mmi1_multiport_1_0,o1']
+  n_96: ['mmi1_ps_array_1_heater_1,o2', 'mmi1_multiport_1_0,o2']
+  n_97: ['mmi1_ps_array_1_heater_2,o2', 'mmi1_multiport_1_0,o3']
+  n_98: ['mmi1_ps_array_1_heater_3,o2', 'mmi1_multiport_1_0,o4']
+  n_99: ['mmi1_ps_array_1_heater_4,o2', 'mmi1_multiport_1_1,o1']
+  n_100: ['mmi1_ps_array_1_heater_5,o2', 'mmi1_multiport_1_2,o1']
+  n_101: ['mmi1_ps_array_1_heater_6,o2', 'mmi1_multiport_1_2,o2']
+  n_102: ['mmi1_ps_array_1_heater_7,o2', 'mmi1_multiport_1_3,o1']
+  n_103: ['mmi1_multiport_1_0,o8', 'mmi1_ps_array_2_heater_0,o1']
+  n_104: ['mmi1_multiport_1_0,o7', 'mmi1_ps_array_2_heater_2,o1']
+  n_105: ['mmi1_multiport_1_0,o6', 'mmi1_ps_array_2_heater_4,o1']
+  n_106: ['mmi1_multiport_1_0,o5', 'mmi1_ps_array_2_heater_1,o1']
+  n_107: ['mmi1_multiport_1_1,o2', 'mmi1_ps_array_2_heater_5,o1']
+  n_108: ['mmi1_multiport_1_2,o4', 'mmi1_ps_array_2_heater_6,o1']
+  n_109: ['mmi1_multiport_1_2,o3', 'mmi1_ps_array_2_heater_3,o1']
+  n_110: ['mmi1_multiport_1_3,o2', 'mmi1_ps_array_2_heater_7,o1']
+  n_111: ['mmi1_ps_array_2_heater_0,o2', 'mmi1_multiport_2_0,o1']
+  n_112: ['mmi1_ps_array_2_heater_1,o2', 'mmi1_multiport_2_0,o2']
+  n_113: ['mmi1_ps_array_2_heater_2,o2', 'mmi1_multiport_2_0,o3']
+  n_114: ['mmi1_ps_array_2_heater_3,o2', 'mmi1_multiport_2_0,o4']
+  n_115: ['mmi1_ps_array_2_heater_4,o2', 'mmi1_multiport_2_1,o1']
+  n_116: ['mmi1_ps_array_2_heater_5,o2', 'mmi1_multiport_2_1,o2']
+  n_117: ['mmi1_ps_array_2_heater_6,o2', 'mmi1_multiport_2_2,o1']
+  n_118: ['mmi1_ps_array_2_heater_7,o2', 'mmi1_multiport_2_3,o1']
+  n_119: ['mmi1_multiport_2_0,o8', 'gc_array_out_gc_0,o1']
+  n_120: ['mmi1_multiport_2_0,o7', 'gc_array_out_gc_1,o1']
+  n_121: ['mmi1_multiport_2_0,o6', 'gc_array_out_gc_4,o1']
+  n_122: ['mmi1_multiport_2_0,o5', 'gc_array_out_gc_3,o1']
+  n_123: ['mmi1_multiport_2_1,o4', 'gc_array_out_gc_2,o1']
+  n_124: ['mmi1_multiport_2_1,o3', 'gc_array_out_gc_7,o1']
+  n_125: ['mmi1_multiport_2_2,o2', 'gc_array_out_gc_5,o1']
+  n_126: ['mmi1_multiport_2_3,o2', 'gc_array_out_gc_6,o1']
+ports: {}
+schema_version: 1
+settings:
+  version: '1.0'
+  design: multiportmmi_8x8
+  units_distance_microns: 1
+  die_area:
+  - [0, 0]
+  - [3200, 900]
+  num_instances: 104
+  num_nets: 127
+  num_ports: 0
+  wg_radius: 5
+  routing_grid_xl: 0
+  routing_grid_yl: 0
+  routing_grid_xh: 3200
+  routing_grid_yh: 900
+  routing_grid_size: 20
+  unit_horizontal_capacity: 1.0e-06
+  unit_vertical_capacity: 1.0e-06
+  site_width: 1
+  row_height: 1
+library:
+  m_grating_coupler_ellipti_4c46b398_0:
+    property: null
+    insertion_loss: 2.0
+    type: CORE
+    origin: [0.0, 0.0]
+    size: [27.164, 25.746000000000002]
+    site: core
+    pins:
+      o1: {pin_offset_x: 0.0, pin_offset_y: 12.873000000000001, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+  m_mmi1x2_WNone_WT1_LT10_L_4e0f7121_1:
+    property: null
+    insertion_loss: 0.3
+    type: CORE
+    origin: [0.0, 0.0]
+    size: [25.5, 2.5]
+    site: core
+    pins:
+      o1: {pin_offset_x: 0.0, pin_offset_y: 1.25, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o2: {pin_offset_x: 25.5, pin_offset_y: 1.875, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o3: {pin_offset_x: 25.5, pin_offset_y: 0.625, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+  m_mzi_DL10_LY2_LX200_Bben_6e9f3e3b_2:
+    property: null
+    insertion_loss: 1.2
+    type: CORE
+    origin: [0.0, 0.0]
+    size: [291.0, 56.0]
+    site: core
+    pins:
+      o1: {pin_offset_x: 0.0, pin_offset_y: 27.875, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o2: {pin_offset_x: 291.0, pin_offset_y: 27.875, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+  m_straight_heater_metal_u_9c931429_3:
+    property: null
+    insertion_loss: 0.05
+    type: CORE
+    origin: [0.0, 0.0]
+    size: [231.8, 11.0]
+    site: core
+    pins:
+      o1: {pin_offset_x: 15.9, pin_offset_y: 5.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o2: {pin_offset_x: 215.9, pin_offset_y: 5.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+  m_straight_L50_N2_CSstrip_WNone_4:
+    property: null
+    insertion_loss: 0.03
+    type: CORE
+    origin: [0.0, 0.0]
+    size: [50.0, 0.5]
+    site: core
+    pins:
+      o1: {pin_offset_x: 0.0, pin_offset_y: 0.25, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o2: {pin_offset_x: 50.0, pin_offset_y: 0.25, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+  m_mmi_I2_O2_WNone_WT1_LT1_d965ea1e_5:
+    property: null
+    insertion_loss: 0.1
+    type: CORE
+    origin: [0.0, 0.0]
+    size: [56.0, 10.0]
+    site: core
+    pins:
+      o1: {pin_offset_x: 0.0, pin_offset_y: 2.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o2: {pin_offset_x: 0.0, pin_offset_y: 7.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o4: {pin_offset_x: 56.0, pin_offset_y: 2.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o3: {pin_offset_x: 56.0, pin_offset_y: 7.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+  m_mmi_I3_O3_WNone_WT1_LT1_511965c1_6:
+    property: null
+    insertion_loss: 0.1
+    type: CORE
+    origin: [0.0, 0.0]
+    size: [74.0, 15.0]
+    site: core
+    pins:
+      o1: {pin_offset_x: 0.0, pin_offset_y: 2.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o2: {pin_offset_x: 0.0, pin_offset_y: 7.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o3: {pin_offset_x: 0.0, pin_offset_y: 12.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o6: {pin_offset_x: 74.0, pin_offset_y: 2.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o5: {pin_offset_x: 74.0, pin_offset_y: 7.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o4: {pin_offset_x: 74.0, pin_offset_y: 12.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+  m_mmi_I5_O5_WNone_WT1_LT1_2e7b18db_7:
+    property: null
+    insertion_loss: 0.1
+    type: CORE
+    origin: [0.0, 0.0]
+    size: [110.0, 25.0]
+    site: core
+    pins:
+      o1: {pin_offset_x: 0.0, pin_offset_y: 2.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o2: {pin_offset_x: 0.0, pin_offset_y: 7.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o3: {pin_offset_x: 0.0, pin_offset_y: 12.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o4: {pin_offset_x: 0.0, pin_offset_y: 17.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o5: {pin_offset_x: 0.0, pin_offset_y: 22.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o10: {pin_offset_x: 110.0, pin_offset_y: 2.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o9: {pin_offset_x: 110.0, pin_offset_y: 7.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o8: {pin_offset_x: 110.0, pin_offset_y: 12.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o7: {pin_offset_x: 110.0, pin_offset_y: 17.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o6: {pin_offset_x: 110.0, pin_offset_y: 22.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+  m_mmi_I4_O4_WNone_WT1_LT1_a5379678_8:
+    property: null
+    insertion_loss: 0.1
+    type: CORE
+    origin: [0.0, 0.0]
+    size: [92.0, 20.0]
+    site: core
+    pins:
+      o1: {pin_offset_x: 0.0, pin_offset_y: 2.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o2: {pin_offset_x: 0.0, pin_offset_y: 7.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o3: {pin_offset_x: 0.0, pin_offset_y: 12.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o4: {pin_offset_x: 0.0, pin_offset_y: 17.5, pin_width: 0.5, pin_orient: 180.0,
+        pin_layer: 1}
+      o8: {pin_offset_x: 92.0, pin_offset_y: 2.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o7: {pin_offset_x: 92.0, pin_offset_y: 7.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o6: {pin_offset_x: 92.0, pin_offset_y: 12.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+      o5: {pin_offset_x: 92.0, pin_offset_y: 17.5, pin_width: 0.5, pin_orient: 0.0,
+        pin_layer: 1}
+constraints:
+  constr_0:
+    type: alignment
+    settings: {anchor: left}
+    objects: [fanout_yb_1_0, fanout_yb_1_1]
+  constr_1:
+    type: alignment
+    settings: {anchor: left}
+    objects: [fanout_yb_2_0, fanout_yb_2_1, fanout_yb_2_2, fanout_yb_2_3]
+  constr_2:
+    type: alignment
+    settings: {anchor: left}
+    objects: [mol_array_0_mzi_0, mol_array_0_mzi_1, mol_array_0_mzi_2, mol_array_0_mzi_3,
+      mol_array_0_mzi_4, mol_array_0_mzi_5, mol_array_0_mzi_6, mol_array_0_mzi_7]
+  constr_3:
+    type: alignment
+    settings: {anchor: left}
+    objects: [mmi0_ps_array_0_heater_0, mmi0_ps_array_0_heater_1, mmi0_ps_array_0_heater_2,
+      mmi0_ps_array_0_heater_3, mmi0_ps_array_0_heater_4, mmi0_ps_array_0_heater_5,
+      mmi0_ps_array_0_heater_6, mmi0_ps_array_0_heater_7]
+  constr_4:
+    type: alignment
+    settings: {anchor: left}
+    objects: [mmi0_ps_array_1_heater_0, mmi0_ps_array_1_heater_1, mmi0_ps_array_1_heater_2,
+      mmi0_ps_array_1_heater_3, mmi0_ps_array_1_heater_4, mmi0_ps_array_1_heater_5,
+      mmi0_ps_array_1_heater_6, mmi0_ps_array_1_heater_7]
+  constr_5:
+    type: alignment
+    settings: {anchor: left}
+    objects: [mmi0_ps_array_2_heater_0, mmi0_ps_array_2_heater_1, mmi0_ps_array_2_heater_2,
+      mmi0_ps_array_2_heater_3, mmi0_ps_array_2_heater_4, mmi0_ps_array_2_heater_5,
+      mmi0_ps_array_2_heater_6, mmi0_ps_array_2_heater_7]
+  constr_6:
+    type: alignment
+    settings: {anchor: left}
+    objects: [mol_array_1_mzi_0, mol_array_1_mzi_1, mol_array_1_mzi_2, mol_array_1_mzi_3,
+      mol_array_1_mzi_4, mol_array_1_mzi_5, mol_array_1_mzi_6, mol_array_1_mzi_7]
+  constr_7:
+    type: alignment
+    settings: {anchor: left}
+    objects: [mmi1_ps_array_0_heater_0, mmi1_ps_array_0_heater_1, mmi1_ps_array_0_heater_2,
+      mmi1_ps_array_0_heater_3, mmi1_ps_array_0_heater_4, mmi1_ps_array_0_heater_5,
+      mmi1_ps_array_0_heater_6, mmi1_ps_array_0_heater_7]
+  constr_8:
+    type: alignment
+    settings: {anchor: left}
+    objects: [mmi1_ps_array_1_heater_0, mmi1_ps_array_1_heater_1, mmi1_ps_array_1_heater_2,
+      mmi1_ps_array_1_heater_3, mmi1_ps_array_1_heater_4, mmi1_ps_array_1_heater_5,
+      mmi1_ps_array_1_heater_6, mmi1_ps_array_1_heater_7]
+  constr_9:
+    type: alignment
+    settings: {anchor: left}
+    objects: [mmi1_ps_array_2_heater_0, mmi1_ps_array_2_heater_1, mmi1_ps_array_2_heater_2,
+      mmi1_ps_array_2_heater_3, mmi1_ps_array_2_heater_4, mmi1_ps_array_2_heater_5,
+      mmi1_ps_array_2_heater_6, mmi1_ps_array_2_heater_7]
+  constr_10:
+    type: alignment
+    settings: {anchor: y_center}
+    objects: [mol_array_0_mzi_0, mmi0_ps_array_0_heater_0, mmi0_ps_array_1_heater_0,
+      mmi0_ps_array_2_heater_0, mol_array_1_mzi_0, mmi1_ps_array_0_heater_0, mmi1_ps_array_1_heater_0,
+      mmi1_ps_array_2_heater_0]
+  constr_11:
+    type: alignment
+    settings: {anchor: y_center}
+    objects: [mol_array_0_mzi_1, mmi0_ps_array_0_heater_1, mmi0_ps_array_1_heater_1,
+      mmi0_ps_array_2_heater_1, mol_array_1_mzi_1, mmi1_ps_array_0_heater_1, mmi1_ps_array_1_heater_1,
+      mmi1_ps_array_2_heater_1]
+  constr_12:
+    type: alignment
+    settings: {anchor: y_center}
+    objects: [mol_array_0_mzi_2, mmi0_ps_array_0_heater_2, mmi0_ps_array_1_heater_2,
+      mmi0_ps_array_2_heater_2, mol_array_1_mzi_2, mmi1_ps_array_0_heater_2, mmi1_ps_array_1_heater_2,
+      mmi1_ps_array_2_heater_2]
+  constr_13:
+    type: alignment
+    settings: {anchor: y_center}
+    objects: [mol_array_0_mzi_3, mmi0_ps_array_0_heater_3, mmi0_ps_array_1_heater_3,
+      mmi0_ps_array_2_heater_3, mol_array_1_mzi_3, mmi1_ps_array_0_heater_3, mmi1_ps_array_1_heater_3,
+      mmi1_ps_array_2_heater_3]
+  constr_14:
+    type: alignment
+    settings: {anchor: y_center}
+    objects: [mol_array_0_mzi_4, mmi0_ps_array_0_heater_4, mmi0_ps_array_1_heater_4,
+      mmi0_ps_array_2_heater_4, mol_array_1_mzi_4, mmi1_ps_array_0_heater_4, mmi1_ps_array_1_heater_4,
+      mmi1_ps_array_2_heater_4]
+  constr_15:
+    type: alignment
+    settings: {anchor: y_center}
+    objects: [mol_array_0_mzi_5, mmi0_ps_array_0_heater_5, mmi0_ps_array_1_heater_5,
+      mmi0_ps_array_2_heater_5, mol_array_1_mzi_5, mmi1_ps_array_0_heater_5, mmi1_ps_array_1_heater_5,
+      mmi1_ps_array_2_heater_5]
+  constr_16:
+    type: alignment
+    settings: {anchor: y_center}
+    objects: [mol_array_0_mzi_6, mmi0_ps_array_0_heater_6, mmi0_ps_array_1_heater_6,
+      mmi0_ps_array_2_heater_6, mol_array_1_mzi_6, mmi1_ps_array_0_heater_6, mmi1_ps_array_1_heater_6,
+      mmi1_ps_array_2_heater_6]
+  constr_17:
+    type: alignment
+    settings: {anchor: y_center}
+    objects: [mol_array_0_mzi_7, mmi0_ps_array_0_heater_7, mmi0_ps_array_1_heater_7,
+      mmi0_ps_array_2_heater_7, mol_array_1_mzi_7, mmi1_ps_array_0_heater_7, mmi1_ps_array_1_heater_7,
+      mmi1_ps_array_2_heater_7]
+symmetry_nets:
+  sym_n_0: ['fanout_yb_0_0,o3', 'fanout_yb_1_0,o1']
+  sym_n_1: ['fanout_yb_0_0,o2', 'fanout_yb_1_1,o1']
+  sym_n_2: ['fanout_yb_1_0,o3', 'fanout_yb_2_0,o1']
+  sym_n_3: ['fanout_yb_1_0,o2', 'fanout_yb_2_1,o1']
+  sym_n_4: ['fanout_yb_1_1,o3', 'fanout_yb_2_2,o1']
+  sym_n_5: ['fanout_yb_1_1,o2', 'fanout_yb_2_3,o1']
+  sym_n_6: ['fanout_yb_2_0,o3', 'mol_array_0_mzi_0,o1']
+  sym_n_7: ['fanout_yb_2_0,o2', 'mol_array_0_mzi_1,o1']
+  sym_n_8: ['fanout_yb_2_1,o3', 'mol_array_0_mzi_2,o1']
+  sym_n_9: ['fanout_yb_2_1,o2', 'mol_array_0_mzi_3,o1']
+  sym_n_10: ['fanout_yb_2_2,o3', 'mol_array_0_mzi_4,o1']
+  sym_n_11: ['fanout_yb_2_2,o2', 'mol_array_0_mzi_5,o1']
+  sym_n_12: ['fanout_yb_2_3,o3', 'mol_array_0_mzi_6,o1']
+  sym_n_13: ['fanout_yb_2_3,o2', 'mol_array_0_mzi_7,o1']
