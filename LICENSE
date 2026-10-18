@@ -1,0 +1,25 @@
+Apollo PIC Placement Benchmark License
+
+Copyright © 2022–2026 School of Electrical, Computer and Energy Engineering, Arizona State University. All rights reserved.
+
+The PIC Placement Benchmark ("Benchmark") is made available for non-commercial academic research, education, and evaluation purposes only, subject to the following terms:
+
+Ownership. All rights, title, and interest in and to the Benchmark remain with the copyright holder. No ownership rights are transferred under this license.
+
+Permitted Use. You may use the Benchmark for non-commercial academic research, including evaluating algorithms, conducting experiments, and publishing research results derived from such use.
+
+Attribution and Citation. Any publication, presentation, or other public work that uses the Benchmark must appropriately acknowledge the Benchmark and cite the following associated publication:
+
+Hongjian Zhou, Haoyu Yang, Nicholas Gangi, Zhaoran (Rena) Huang, Haoxing Ren, and Jiaqi Gu. “Apollo: Automated Routing-Informed Placement for Large-Scale Photonic Integrated Circuits.” ICCAD, 2025.
+
+Non-Commercial Use Only. The Benchmark may not be used for commercial purposes, including incorporation into commercial products or services, without prior written permission from the copyright holder.
+
+No Claim of Ownership or Endorsement. You may not claim ownership of the Benchmark or represent the Benchmark, or any modified version thereof, as your own original benchmark. Use of the Benchmark does not imply endorsement by the copyright holder or contributors.
+
+Redistribution. Redistribution of the Benchmark, in whole or in substantial part, is not permitted without prior written permission from the copyright holder. Researchers should obtain the Benchmark from its official distribution source.
+
+Modifications. You may modify the Benchmark for non-commercial research purposes. Any publication using a modified version must clearly disclose that the Benchmark has been modified and describe the relevant modifications.
+
+Disclaimer of Warranty. THE BENCHMARK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, OR NON-INFRINGEMENT.
+
+Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE BENCHMARK OR ITS USE.
