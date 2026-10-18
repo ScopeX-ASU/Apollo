@@ -144,6 +144,3 @@ Hongjian Zhou, Haoyu Yang, Nicholas Gangi, Zhaoran (Rena) Huang, Haoxing Ren, an
 
 For questions about the benchmarks or the paper, please open a GitHub issue or contact the authors.
 
-## License
-
-This repository does not currently include a license file. Until a license is provided, the contents remain under their authors' copyright; contact the authors for reuse terms beyond applicable exceptions.
